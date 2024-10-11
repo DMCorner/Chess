@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{E0C57BA6-5654-4900-85D3-55F96C5FE964}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E0C57BA6-5654-4900-85D3-55F96C5FE964}|ChessLogic\\ChessLogic.csproj|g:\\coding\\c#projects\\chess\\chesslogic\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C57BA6-5654-4900-85D3-55F96C5FE964}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0C57BA6-5654-4900-85D3-55F96C5FE964}|ChessLogic\\ChessLogic.csproj|g:\\coding\\c#projects\\chess\\chesslogic\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0C57BA6-5654-4900-85D3-55F96C5FE964}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,8 +42,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "G:\\Coding\\C#projects\\Chess\\ChessLogic\\Direction.cs",
+              "RelativeDocumentMoniker": "ChessLogic\\Direction.cs",
+              "ToolTip": "G:\\Coding\\C#projects\\Chess\\ChessLogic\\Direction.cs",
+              "RelativeToolTip": "ChessLogic\\Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:19:05.372Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,48 +69,35 @@
               "RelativeDocumentMoniker": "ChessLogic\\Position.cs",
               "ToolTip": "G:\\Coding\\C#projects\\Chess\\ChessLogic\\Position.cs",
               "RelativeToolTip": "ChessLogic\\Position.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwCoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T18:45:16.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "G:\\Coding\\C#projects\\Chess\\ChessLogic\\Player.cs",
               "RelativeDocumentMoniker": "ChessLogic\\Player.cs",
               "ToolTip": "G:\\Coding\\C#projects\\Chess\\ChessLogic\\Player.cs",
               "RelativeToolTip": "ChessLogic\\Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T18:35:35.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ChessUI",
+              "DocumentIndex": 5,
+              "Title": "ChessUI.csproj",
               "DocumentMoniker": "G:\\Coding\\C#projects\\Chess\\ChessUI\\ChessUI.csproj",
               "RelativeDocumentMoniker": "ChessUI\\ChessUI.csproj",
               "ToolTip": "G:\\Coding\\C#projects\\Chess\\ChessUI\\ChessUI.csproj",
               "RelativeToolTip": "ChessUI\\ChessUI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-10T17:46:03.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ChessLogic",
-              "DocumentMoniker": "G:\\Coding\\C#projects\\Chess\\ChessLogic\\ChessLogic.csproj",
-              "RelativeDocumentMoniker": "ChessLogic\\ChessLogic.csproj",
-              "ToolTip": "G:\\Coding\\C#projects\\Chess\\ChessLogic\\ChessLogic.csproj",
-              "RelativeToolTip": "ChessLogic\\ChessLogic.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-10T17:44:15.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T17:46:03.675Z"
             },
             {
               "$type": "Document",
@@ -99,30 +107,35 @@
               "RelativeDocumentMoniker": "ChessLogic\\ChessLogic.csproj",
               "ToolTip": "G:\\Coding\\C#projects\\Chess\\ChessLogic\\ChessLogic.csproj",
               "RelativeToolTip": "ChessLogic\\ChessLogic.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-10T17:43:47.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2024-10-10T17:44:15.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "ChessLogic.csproj",
+              "DocumentMoniker": "G:\\Coding\\C#projects\\Chess\\ChessLogic\\ChessLogic.csproj",
+              "RelativeDocumentMoniker": "ChessLogic\\ChessLogic.csproj",
+              "ToolTip": "G:\\Coding\\C#projects\\Chess\\ChessLogic\\ChessLogic.csproj",
+              "RelativeToolTip": "ChessLogic\\ChessLogic.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T17:43:47.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "G:\\Coding\\C#projects\\Chess\\ChessUI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml",
               "ToolTip": "G:\\Coding\\C#projects\\Chess\\ChessUI\\MainWindow.xaml",
               "RelativeToolTip": "ChessUI\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-10T17:41:41.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T17:41:41.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "G:\\Coding\\C#projects\\Chess\\ChessUI\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml.cs",
@@ -130,8 +143,7 @@
               "RelativeToolTip": "ChessUI\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T17:41:41.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T17:41:41.821Z"
             }
           ]
         }
